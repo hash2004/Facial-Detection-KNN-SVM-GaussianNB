@@ -16,3 +16,5 @@ The dataset used in this project consists of facial images represented in a tabu
 - **Labeling**: Assign labels to the dataset for supervised learning.
 - **Model Training**: (Details on model training can be added based on further cells in the notebook).
 
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
